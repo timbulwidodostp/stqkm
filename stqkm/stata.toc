@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p stqkm Indirect estimates of survival quantiles from Kaplan-Meier curves Use stqkm With STATA 19
