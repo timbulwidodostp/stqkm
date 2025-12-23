@@ -1,6 +1,8 @@
 # stqkm
 Indirect estimates of survival quantiles from Kaplan-Meier curves Use stqkm With STATA 19
 
+https://www.youtube.com/watch?v=IMUaOT79RSw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
